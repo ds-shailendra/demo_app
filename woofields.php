@@ -80,3 +80,6 @@ function wooc_extra_register_fields() {
 }
 
 add_action( 'woocommerce_register_form', 'wooc_extra_register_fields' );
+
+
+https://support.woothemes.com/hc/en-us/articles/203182373-How-to-add-custom-fields-in-user-registration-on-the-My-Account-page
